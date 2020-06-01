@@ -10,4 +10,4 @@ playsound
 
 
 
-just a small metronome app for BPMs 6 - 600
+# its just a small metronome app for BPMs 6 - 600
